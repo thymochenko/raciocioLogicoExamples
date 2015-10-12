@@ -19,7 +19,7 @@ public class Exercicio5 {
 				resultadoEtapa[i] = 2;
 				System.out.println(numero[i]);
 			}
-			if(i > 2 && i < 5){
+			if(i > 2 && i < 5){			
 				System.out.println("["+ i + "]");
 				numero[i] = generator.nextInt(1)+9;	
 				resultadoEtapa[i] = 9;
