@@ -4,8 +4,8 @@
 import java.util.Random;
 import java.util.Arrays;
 import java.util.ArrayList;
- import java.util.*;
- import javax.swing.JOptionPane;
+import java.util.*;
+import javax.swing.JOptionPane;
  
 public class Exercicio6 {
 	public static void main(String[] args){
